@@ -2,12 +2,9 @@
 
 ## What is it?
 
-___
-TextAdventureSYS is a module created by Ender to make creating Text Adventures easy, so even complete beginners in Python can make ther own Text Adventures.
+TextAdventureSYS is a module created to make creating Text Adventures in python easy, so even complete beginners in Python can make ther own Text Adventures.
 
 ## How to use it?
-
-___
 
 ### Importing
 
@@ -48,8 +45,6 @@ import TextAdventure
 ```
 
 ## Examples
-
-___
 
 ### Example 1
 
